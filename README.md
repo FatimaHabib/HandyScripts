@@ -1,5 +1,5 @@
 1. Generate requirements.txt
 ```bash 
-pip freeze --local > requirements.txt 
+pip3 freeze --local > requirements.txt 
 
 ```
